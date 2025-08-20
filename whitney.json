@@ -1,100 +1,98 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "https://www.youtube.com/watch?v=fa8k8IQ1_X0",
+			"caption": "A.I. ‐ Humanity's Final Invention?",
+			"credit": "@kurzgesagt/<a href='https://www.youtube.com/@kurzgesagt'>Kurzgesagt – In a Nutshell</a>"
 		},
 		"text": {
-			"headline": "Whitney Houston<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "Artificial Intelligence<br/> 1950 - 2025",
+			"text": "<p>Artificial Intelligence is a system created to replicate human intelligence and problem-solving abilities. They make them by taking data and processing them to help them learn from past mistakes in order to improve.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "https://aiconnectnetwork.com/wp-content/uploads/2023/08/Alan-Turing.webp",
+				"caption": "The Imitation Game & Alan Turing",
+				"credit": "From Turing to Transformers: The Imitation Game of Language Models:<a href='https://aiconnectnetwork.com/from-turing-to-transformers-the-imitation-game-of-language-models'></a><br/><a href='https://aiconnectnetwork.com/from-turing-to-transformers-the-imitation-game-of-language-models'>The Imitation Game & Alan Turing</a>"
 			},
 			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"year": "1950"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "Alan Turing - Computer Machinery and Intelligence",
+				"text": "<p>'Computer Machinery and Intelligence' was a book published by Alan Turing in 1950 that proposed a test on machine's intelligence called the Imitation Game.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
+				"url": "https://assets.ibm.com/is/image/ibm/5322_as_playingcheckers?dpr=on%2C1.25&wid=960&hei=768",
 				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"credit": "<a href=\"https://history.computer.org/pioneers/samuel.html\">IEEE Computer Society</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1952"
 			},
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+				"headline": "Arthur Samuel - Developed a Program to Play Checkers",
+				"text": "In 1952, a computer scientist, Arthur Samuel, developed the first ever program to learn the game independently."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvZV4XTgBkWWjdH2GLQp654pNLCMrX59unAvi5bBty3snwfAfrC-U297OK8CW2AxmdI2natVkk1nujRm8OY_hkw",
+				"caption": "John McCarthy",
+				"credit": "<a href=\"https://www.tableau.com/data-insights/ai/history\">Tableau</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1955"
 			},
 			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "John McCarthy - Artificial Intelligence",
+				"text": "The first use of the term 'Artificial Intelligence' was held at a workshop at Dartmouth by John McCarthy"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
+				"url": "https://fs.npstatic.com/userfiles/7176834/image/eliza-w782.png",
+				"caption": "Story of Eliza",
+				"credit": "<a href=\"https://analyticsindiamag.com/ai-features/story-eliza-first-chatbot-developed-1966\">Analytics India Mag</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1966"
 			},
 			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "ELIZA",
+				"text": "The first 'chatterbot' that used Natural Language Processing (NLP) to converse with people. This would later be in the book 'Group Method of Data Handling' in the journal 'Avtomatika' which made the new approach to AI and will be later known as 'Deep Learning'."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
+				"url": "https://gpt5.blog/wp-content/uploads/2024/11/xcon_expert-configurer-1200x900.jpg",
+				"caption": "XCON",
+				"credit": "DBPedia"
 			},
 			"start_date": {
-				"year": "1983"
+				"year": "1980"
 			},
 			"text": {
-				"headline": "Signed",
-				"text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+				"headline": "XCON",
+				"text": "Expert Configurer or XCON, is the first expert system that came into the commercial market. It's design was to assist ordering computer systems by automatically picking components based on the customer's needs."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
+				"url": "https://theworld.org/_next/image?url=https%3A%2F%2Fmedia.pri.org%2Fs3fs-public%2Fstory%2Fimages%2FDeepBlue.png&w=3840&q=75",
+				"caption": "Deep Blue vs Gary Kasparov",
+				"credit": "<a href=\"https://www.tableau.com/data-insights/ai/history\">Tableau</a>"
 			},
 			"start_date": {
-				"year": "1985"
+				"year": "1997"
 			},
 			"text": {
-				"headline": "Debut",
-				"text": "Whitney Houston's self titled first release sold over 12 million copies in the U.S. and included the hit singles 'How Will I Know,' 'You Give Good Love,' 'Saving All My Love For You' and 'Greatest Love of All.'"
+				"headline": "Deep Blue",
+				"text": "The first program to beat a human chess champion, Deep Blue. It was developed by IBM in 1997 and let it fought against Garry Kasparov in a publicized match and won."
 			}
 		},
 		{
