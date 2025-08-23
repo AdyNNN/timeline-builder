@@ -6,7 +6,7 @@
 			"credit": "@kurzgesagt/<a href='https://www.youtube.com/@kurzgesagt'>Kurzgesagt – In a Nutshell</a>"
 		},
 		"text": {
-			"headline": "Artificial Intelligence<br/> 1950 - 2025",
+			"headline": "Artificial Intelligence<br/> 1950 - 2014",
 			"text": "<p>Artificial Intelligence is a system created to replicate human intelligence and problem-solving abilities. They make them by taking data and processing them to help them learn from past mistakes in order to improve.</p>"
 		}
 	},
@@ -149,6 +149,15 @@
 			"text": {
 				"headline": "Ian Goodfellow",
 				"text": "<p>Introduced Generative Adversarial Networks (GANs) that enabled researchers to create realistic-looking computer-generated photos of people’s faces. This paved the way for Goodfellow’s career in Apple where he’s the director of machine learning.</p>"
+			}
+		},
+		{
+			"start_date": {
+				"year": "2025"
+			},
+			"text": {
+				"headline": "References",
+				"text": "<p>Tableau. (n.d.). What is the history of artificial intelligence (AI)? Retrieved August 23, 2025 from https://www.tableau.com/data-insights/ai/history</p> New, J. (2020, August 12). A Summary of Alan Turing’s Computing Machinery and Intelligence. Medium. https://medium.com/@jetnew/a-summary-of-alan-m-turings-computing-machinery-and-intelligence-fd714d187c0b</p> Quantum News. (2024, August 13). Frank Rosenblatt, The Creator of the Perceptron in 1957. Quantum Zeitgeist. https://quantumzeitgeist.com/frank-rosenblatt-the-creator-of-the-perceptron-in-1957</p> Interesting Engineering. (2025, March 28). Arthur Samuel. Retrieved August 23, 2025 from https://interestingengineering.com/engineers-directory/arthur-samuel-engineers-biography</p> University of Toronto. (n.d.). [About]. Retrieved August 23, 2025 from https://discover.research.utoronto.ca/26059-geoffrey-e-hinton</p> Gregersen, E. (n.d.) Judea Pearl. Retrieved August 23, 2025 from https://www.britannica.com/biography/Judea-Pearl</p> Columbia University Data Science Institute. (n.d.) Vladimir Vapnik. Retrieved August 23, 2025 from https://datascience.columbia.edu/people/vladimir-vapnik</p> GeekforGeeks. (2025, June 21). LeNet-5 Architecture. https://www.geeksforgeeks.org/computer-vision/lenet-5-architecture</p> Bangar, S. (2022, June 22). LeNet 5 Architecture Explained. https://medium.com/@siddheshb008/lenet-5-architecture-explained-3b559cb2d52b</p> Mila (n.d.) Yoshua Bengio. Retrieved August 23, 2025 from https://mila.quebec/en/directory/yoshua-bengio</p> Fortune. (n.d.). Ian Goodfellow. Retrieved August 23, 2025 from https://fortune.com/ranking/40-under-40/2019/ian-goodfellow</p> History of Data Science. (2021, October 7). Fei-Fei Li: The Researcher Bringing Humanity to AI. https://www.historyofdatascience.com/fei-fei-li-the-researcher-bringing-humanity-to-ai"
 			}
 		}
 	]
